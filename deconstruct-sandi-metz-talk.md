@@ -1,4 +1,4 @@
-Changes over time:
+## Changes over time:
 
 1)
 ![](https://i.imgur.com/Uq9zW3C.png)
@@ -11,3 +11,8 @@ Changes over time:
 
 4)
 ![](https://i.imgur.com/Ddgoa8B.png)
+
+
+## Dynamics on one picture:
+
+![](https://i.imgur.com/syqTRzl.png)
