@@ -12,11 +12,13 @@ As a result, codebase can be represented visually, and badness of bad decisions 
 1. Dudes - objects
 2. Arms (or any other limbs) - methods
 3. Tube-fingers - parameters
+4. Shake/touch object's hand - call corresponding method
 4. "@"-symbols in the brain - instance variables
 5. "Internal" hands - private methods
 6. Swallen hands - too much conditional logic
 7. Legs - same as hands (can be used to reflect "getter" methods)
 8. Spawning platforms - classes
+
 
 ## Examples
 
