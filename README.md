@@ -1,5 +1,7 @@
 # Little dudes notation (v. 0.1.0)
 
+![](https://i.imgur.com/HwyVhHw.png)
+
 ## Motivation
 
 - to help developers quickly grasp essence of pieces of code
