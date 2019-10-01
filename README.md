@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/HwyVhHw.png)
 
+This notation reflects particular traits of your object-oriented code as little dudes with 
+
 ## Motivation
 
 - to help developers quickly grasp essence of pieces of code
@@ -11,17 +13,32 @@
 
 ## Foundation
 
-1. Objects - dudes
-2. Methods - hands
-3. Parameters - fingers
-4. Instance variables - stored in the brain
-5. Private methods - "internal hands"
-6. Execution flow
+1. Dudes - objects
+2. Arms (or any other limbs) - methods
+3. Fingers - parameters
+4. "@"-symbols in the brain - instance variables
+5. "Internal" hands - private methods
+6. Swallen hands - too much conditional logic
+7. Legs - same as hands (can be used to reflect "getter" methods)
+8. Spawning platforms - classes
+
+## Examples
+
+```ruby
+class Book
+  attr_reader :title, :author
+  def initialize(title, author)
+    @title  = title
+    @author = author
+  end
+end
+```
+
+![](https://i.imgur.com/Elqxq9s.png)
 
 ## Usage
 
 1. [Example #1](https://github.com/inem/little-dudes-notation/blob/master/deconstruct-sandi-metz-talk.md)
-
 
 ## Learn More
 
