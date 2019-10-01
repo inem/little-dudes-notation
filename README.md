@@ -18,12 +18,12 @@
 
 ## Usage
 
-...
+1. [Example #1](https://github.com/inem/little-dudes-notation/blob/master/deconstruct-sandi-metz-talk.md)
 
 
 ## Learn More
 
-See the presentation of the talk called "[Solving Architectural problems with OOP in pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
+See the presentation of the talk called "[Solving Architectural Problems with OOP in Pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
 
 ## Flexibility
 
