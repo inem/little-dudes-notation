@@ -21,6 +21,10 @@
 ...
 
 
+## Learn More
+
+See the presentation of the talk called "[Solving Architectural problems with OOP in pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
+
 ## Flexibility
 
 You don't have to visualize every single aspect of your class. For example, if for your task instance variables or private methods are not important, you simply don't draw them.
