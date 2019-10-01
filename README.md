@@ -7,6 +7,8 @@ As a result, codebase can be represented visually, and badness of bad decisions 
 
 ## Foundation
 
+![](https://i.imgur.com/S8Lo0R3.png)
+
 1. Dudes - objects
 2. Arms (or any other limbs) - methods
 3. Tube-fingers - parameters
