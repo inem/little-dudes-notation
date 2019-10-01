@@ -2,20 +2,14 @@
 
 ![](https://i.imgur.com/HwyVhHw.png)
 
-This notation reflects particular traits of your object-oriented code as little dudes with 
-
-## Motivation
-
-- to help developers quickly grasp essence of pieces of code
-- to provide a compact way to reflect code complexity
-- to visualize "bigger picture" in real projects
-- to see how things change in dynamics 
+This notation reflects particular traits of your object-oriented code as little drawn dudes.
+As a result, codebase can be represented visually, and badness of bad decisions becomes visual and obvious.
 
 ## Foundation
 
 1. Dudes - objects
 2. Arms (or any other limbs) - methods
-3. Fingers - parameters
+3. Tube-fingers - parameters
 4. "@"-symbols in the brain - instance variables
 5. "Internal" hands - private methods
 6. Swallen hands - too much conditional logic
@@ -36,13 +30,20 @@ end
 
 ![](https://i.imgur.com/Elqxq9s.png)
 
+
 ## Usage
 
-1. [Example #1](https://github.com/inem/little-dudes-notation/blob/master/deconstruct-sandi-metz-talk.md)
+- exploring other developers' code
+- exlaining tricky concepts
+- use it as a compact way to reflect code complexity
+- visualize "bigger picture" in real projects
+- see [how things change in dynamics](https://github.com/inem/little-dudes-notation/blob/master/deconstruct-sandi-metz-talk.md) 
 
 ## Learn More
 
 Presentation "[Solving Architectural Problems with OOP in Pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
+
+Visual guide to many
 
 ## Flexibility
 
@@ -55,3 +56,7 @@ The same goes for classes/objects you want to reflect. For example, when you wor
 1. You can use colors to identify classes from different layers of abstractions, or classes of specific namespace.
 
 2. Code coverage, code performance (Big-O notation), churn rate, vulnerabilities, any code complexity metrics can be easily reflected on bodies of the dudes.
+
+## Limitations
+
+It was developed for Ruby language, but it can be modified to reflect rules of other Languages. For example, for statically typed languages "tube-fingers" would have different shapes, and only accept arguments of the same shape.
