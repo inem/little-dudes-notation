@@ -23,7 +23,7 @@
 
 ## Learn More
 
-See the presentation of the talk called "[Solving Architectural Problems with OOP in Pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
+Presentation "[Solving Architectural Problems with OOP in Pictures](https://speakerdeck.com/inem/solving-architectural-problems-with-oop-in-pictures)" 
 
 ## Flexibility
 
