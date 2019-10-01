@@ -1,3 +1,6 @@
+This is the demonstration of Little Dudes Notation applied to the code from Sandi Metz talk from Deconstruct 2018 [Polly wants a message](https://deconstructconf.com/2018/sandi-metz-polly-want-a-message)
+
+
 ## Changes over time:
 
 1)
@@ -16,3 +19,12 @@
 ## Dynamics on one picture:
 
 ![](https://i.imgur.com/syqTRzl.png)
+
+
+## Comparing 1st version with the last one
+
+https://i.imgur.com/2xiEP2H.png
+
+## Refactoring result:
+
+![](https://i.imgur.com/jUL4rFT.png)
