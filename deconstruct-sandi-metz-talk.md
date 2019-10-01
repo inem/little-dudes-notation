@@ -23,7 +23,7 @@ This is the demonstration of Little Dudes Notation applied to the code from Sand
 
 ## Comparing 1st version with the last one
 
-https://i.imgur.com/2xiEP2H.png
+![](https://i.imgur.com/2xiEP2H.png)
 
 ## Refactoring result:
 
